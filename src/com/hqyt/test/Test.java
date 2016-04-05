@@ -40,5 +40,6 @@ public class Test {
 	
 	@org.junit.Test
 	public void testInstance(){
+		System.err.println("error");
 	}
 }
